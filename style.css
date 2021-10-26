@@ -1,0 +1,18 @@
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+
+.container {
+    padding: 30px;
+}
+
+.links {
+    display: flex;
+    justify-content: space-evenly;
+}
